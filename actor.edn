@@ -1,0 +1,8 @@
+{:did        "did:web:etzhayyim.github.io:com-etzhayyim-hakoniwa"
+ :handle     "hakoniwa.etzhayyim.com"
+ :ipns-key   "hakoniwa-actor"
+ :graph-type "com.etzhayyim.hakoniwa.graph"
+ :published  "2026-06-28"
+ :bundle [["data" "data"]
+          [".well-known/did.json" "did.json"]
+          ["README.md" "README.md"]]}
